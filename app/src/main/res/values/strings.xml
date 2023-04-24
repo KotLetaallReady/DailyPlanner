@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyPlanner</string>
+    <string name="screenText">You have a task</string>
+    <string name="screenButton">Okey</string>
+</resources>
